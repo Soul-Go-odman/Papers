@@ -1,9 +1,10 @@
 [[YOLOv3]()]  
 [[FCOSv1]()]  
-[[FCOSv1]()]  
+[[FCOSv2]()]  
 [[CenterNet]()]  
 [[AutoAssign]()]  
-[[OneNet]()]  
 [[NanoNet]()]  
+[[FasterRCNN]()]  
 [[SparseRCNN]()]  
-[[...]()]: End-to-End Object Detection with Fully Convolutional Network  
+[[OneNet]()]  
+[[DeFCN]()]: End-to-End Object Detection with Fully Convolutional Network  
